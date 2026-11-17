@@ -1,0 +1,11 @@
+{
+  "name": "mymarket",
+  "version": "1.0.0",
+  "description": "Search goods, services, job vacancies and shops on Mymarket.az, the Azerbaijani classifieds site, and read listing details.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "mymarket": {
+      "httpUrl": "https://mymarket.az/mcp"
+    }
+  }
+}
